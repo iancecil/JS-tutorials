@@ -9,3 +9,5 @@ var a = "LittleGen"
 var b = "iusTech"
 console.log(a + " " + b)
 console.log(`${a} ${b}`)
+
+console.log(`${a}${b.toUpperCase()}`)
